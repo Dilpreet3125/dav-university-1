@@ -1,5 +1,8 @@
 # Project Report: Building a Custom Chatbot using Intel Extension for Transformers
 
+This project demonstrates the practical setup and usage of Intel Extension for Transformers for CPU-based LLM deployment.
+
+
 This project aims to build a custom chatbot using Hugging Face models and Intel Extension for Transformers. The following steps will guide you through setting up the environment, installing necessary dependencies, and running the project.
 
 ## Table of Contents
